@@ -16,7 +16,7 @@ Exploring the depths of Mern Stack, and always on the lookout for exciting proje
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Diptendu369]&show_icons=true&theme=radical)](https://github.com/[Diptendu369])
+https://github-readme-stats.vercel.app/api?username=[Diptendu369]&show_icons=true&theme=radical)](https://github.com/[Diptendu369]
 
 ## 📫 Let's Connect!
 
