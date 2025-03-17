@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptendu369&show_icons=true&locale=en" alt="diptendu369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptendu369&" alt="diptendu369" /></p>
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Diptendu123)
