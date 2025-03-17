@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/hifilosophy" target="blank"><img src="https://img.shields.io/twitter/follow/hifilosophy?logo=twitter&style=for-the-badge" alt="hifilosophy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [diptendujashu1.netlify.app](diptendujashu1.netlify.app)
+- 👨‍💻 Please visit my  [Website](diptendujashu1.netlify.app)
 
 - 📫 How to reach me **diptendujashu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vFyooGGiZcSHqKutu-QINlLZVPlrAuJO/view?usp=sharing](https://drive.google.com/file/d/1vFyooGGiZcSHqKutu-QINlLZVPlrAuJO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vFyooGGiZcSHqKutu-QINlLZVPlrAuJO/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
