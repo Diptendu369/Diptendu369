@@ -1,3 +1,4 @@
+![Header](https://github.com/Diptendu369/Diptendu369/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Diptendu Jashu</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
