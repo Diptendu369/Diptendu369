@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diptendu369" alt="diptendu369" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hifilosophy" target="blank"><img src="https://img.shields.io/twitter/follow/hifilosophy?logo=twitter&style=for-the-badge" alt="hifilosophy" /></a> </p>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
@@ -55,11 +55,11 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptendu369&show_icons=true&locale=en&layout=compact" 
-       align="left" alt="Top Languages" style="height: 200px; width:auto; object-fit: contain;"/>
+       align="left" alt="Top Languages" style="height: auto; width: 45%; min-width: 250px; max-width: 400px; object-fit: contain;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendu369&" 
-       align="right"  alt="GitHub Streak" style="height: 200px; width:auto"/>
-
+       align="right" alt="GitHub Streak" style="height: auto; width: 45%; min-width: 300px; max-width: 500px;"/>
 </div>
+
 
 
 
