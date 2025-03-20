@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptendu369&show_icons=true&locale=en&layout=compact" 
      align="left"  alt="Top Languages" style="height: 200px; width: auto; max-width: 45%; min-width: 250px; object-fit: contain;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendu369&" 
-     align="left"  alt="GitHub Streak" style="height: 200px; width: auto; max-width: 45%; min-width: 300px;"/>
+     align="right"  alt="GitHub Streak" style="height: 200px; width: auto; max-width: 45%; min-width: 300px;"/>
 </div>
 
 
