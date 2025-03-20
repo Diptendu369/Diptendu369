@@ -1,4 +1,5 @@
-![Header](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyMzE4MTYsIm5iZiI6MTc0MjIzMTUxNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE3VDE3MTE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkMmFjMzc3YThjNDM5MGIyMmJhNzU2YjM0MDM3MTA5OWRjZTZmNGY3NGFkYzllMTgzZDMzNzAzYjJhN2E2NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.l9tXL0sXqEcp9WUsfvjdhRriKgDwH80QOpHd6_iN4HE)
+![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 <h1 align="center">Hi 👋, I'm Diptendu Jashu</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -55,16 +56,11 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptendu369&show_icons=true&locale=en&layout=compact" 
        alt="Top Languages" style="height: 200px; object-fit: contain;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=diptendu369&show_icons=true&locale=en" 
-       alt="GitHub Stats" style="height: 200px; object-fit: contain;"/>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendu369&" 
        alt="GitHub Streak" style="height: 200px;"/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Diptendu123" 
-       alt="LeetCode Badges" style="height: 200px; flex: 1; object-fit: cover;"/>
+
 </div>
+
 
 
 
