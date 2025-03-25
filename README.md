@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptendu369&show_icons=true&locale=en&layout=compact"
        alt="Top Languages" style="height: 193px; display: inline-block; max-width: 45%; min-width: 250px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptendu369&"
+  <img src="https://github-readme-stats.vercel.app/api?username=diptendu369&show_icons=true&theme=transparent"
        alt="GitHub Streak" style="height: 193px; display: inline-block; max-width: 45%; min-width: 300px;"/>
 </p>
 
